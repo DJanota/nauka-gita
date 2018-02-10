@@ -1,4 +1,4 @@
-<title>My page</title>
+<title>My favorit page</title>
 </head>
 <body>
 <h1>My very cool page</h1>
